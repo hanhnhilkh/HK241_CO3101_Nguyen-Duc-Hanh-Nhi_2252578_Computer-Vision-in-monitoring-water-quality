@@ -1,0 +1,10 @@
+path: C:/Users/Dell/Documents/Desktop/A_AI_Project/code/dataset_yolo
+
+train: C:/Users/Dell/Documents/Desktop/A_AI_Project/code/dataset_yolo/train
+val: C:/Users/Dell/Documents/Desktop/A_AI_Project/code/dataset_yolo/val
+test: C:/Users/Dell/Documents/Desktop/A_AI_Project/code/dataset_yolo/test
+
+#number of classes
+nc: 2
+#class names
+names: ["non-contaminated", "contaminated"]
